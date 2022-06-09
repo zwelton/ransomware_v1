@@ -2,3 +2,6 @@
 ransomware version 1.
 
 initial project
+
+how to use:
+python ./main.py
